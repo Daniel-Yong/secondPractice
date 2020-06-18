@@ -1,0 +1,2 @@
+#secondPractice
+实验的结果是连接的作用是把文件提交到你打算放在GitHub的某个仓库
